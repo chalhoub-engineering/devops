@@ -1,6 +1,8 @@
-# todo-api
+# This is a simple `todo api` app for recruitment purposes
 
-## This is a simple app for rectuimtment purposes
+## Stack
+- nodejs v14
+- redis
 
 ## How to run
 ```
