@@ -2,7 +2,7 @@
 
 Purpose of this test is to deploy an application using couple of scenarios and technologies.
 
-Usage of GIT is required. Create a repository for this task, solution for each STEP should be in a separate branch in your repository 
+Usage of GIT is required. **Create a repository for this task, solution for each STEP should be in a separate branch in your repository**
 
 ### Considerations
 
