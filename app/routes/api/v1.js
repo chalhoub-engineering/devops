@@ -37,7 +37,6 @@ router.route('/')
             if (err) {
                 return console.log(err);
             }
-            console.log(keys);
             if (keys) {
                 async.map(keys, function(key, cb) {
                     client.get(key, function (error, value) {
