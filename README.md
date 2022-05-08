@@ -15,8 +15,9 @@ Usage of GIT is required. **Create a repository for this task, solution for each
 You can find application that we will be handling in `/app` catalog. 
 
 ### Before we start
-1. chose git repository hosting service (Bitbucket / Gitlab / Github) and push our Application there 
-2. choose cloud provider of Your liking, but please keep in mind that we use AWS and GCP here
+
+1. Choose git repository hosting service (Bitbucket / Gitlab / Github) and push our Application there 
+2. Choose cloud provider of Your liking, but please keep in mind that we use AWS and GCP here
 
 ### STEP 1 
 
